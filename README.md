@@ -1,13 +1,13 @@
-# community-hacktoberfest-tracker
+# community-hacktoberfest-tracker :boom:
 A simple hacktoberfest tracker for your community. 
 
-## Getting Started
+## Getting Started :sparkles:
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
 
-### Prerequisites
+### Prerequisites :iphone:
 You need to have `python3` with a virtual environment and Flask framework.
 
-### Installation Steps
+### Installation Steps :floppy_disk:
 1. First of all you need to setup your virtual environment. (setup and activate)
 ```
 pyvenv-3.6 chtenv
@@ -26,7 +26,7 @@ python3 app.py
 ```
 Now, the app should be running on the localhost, browse to to the link where your app is running. (most probably, http://127.0.0.1:5000/)
 
-## Working with the scripts
+## Working with the scripts :wink:
 1. You need to save the usernames in a textfile, which is stored in the scripts file.
 
 > Make sure that the usernames are accurate, without any unwanted spaces anywhere.
@@ -46,8 +46,9 @@ python3 scripts/script.py -t <textfile.txt>
 ```
 
 
-## Contributing Help
+## Contributing Help :man:
 If you are really interested in contributing to the please follow refer to the [CONTRIBUTING.md](CONTRIBUTING.md).
 
-## License
+## License :dash:
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
+
